@@ -113,9 +113,9 @@ You must create a **Makefile** that:
 | --- | --- |
 | Properly implemented linked list | 15 |
 | Supports all required commands | 15 |
-| Correct file handling (delayed save) | 15 |
+| Correct file handling (delayed save) | 10 |
 | Proper input validation | 10 |
-| Modular and well-structured code with appropriate comments | 15 |
+| Modular and well-structured code with appropriate comments | 10 |
 | Clear, professional formatting in print output | 10 |
 | Makefile correctly compiles and organizes output | 10 |
 | PDF report with explanations and screenshots | 10 |
