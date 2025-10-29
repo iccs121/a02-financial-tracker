@@ -64,6 +64,10 @@ The program should provide the following commands:
 4. **`print`** – Display all transactions in the linked list.
 5. **`quit`** – Save all transactions to `logs/transaction_log.txt` and exit the program.
 
+**Note on Input Handling:** Students may implement one of two valid UI paradigms.
+- A menu-driven interface, where the user is presented with a list of options and selects one by entering its corresponding number.
+- A command-driven interface, where the user inputs the command directly as a string (e.g., add income, delete 3).
+
 **4. File Handling**
 
 - **Transactions should only be written to the log file when the user quits.**
