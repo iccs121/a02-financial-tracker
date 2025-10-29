@@ -2,6 +2,15 @@
 
 ---
 
+============================================================================================
+
+**IMPORTANT NOTE REGARDING THE LATE TOKEN:**
+- You have one (1) late token that can be used only for this assignment.
+- This token provides a one-week extension from the original deadline.
+- Please note: The extension is calculated from the original due date, regardless of when you notify us. For example, if you inform me or a TA 5 days after the deadline, you will only have 2 additional days to submit.
+
+============================================================================================
+
 **Objective:**
 
 In this task, you will develop a **Personal Finance Tracker** in C that allows users to track income and expenses while maintaining a **linked list of transactions**. The program will **read previous logs from a file and store transactions in a linked list**, enabling users to modify the list before saving updates back to the file.
